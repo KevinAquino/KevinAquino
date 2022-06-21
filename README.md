@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Testing!
+My name is Kevin Aquino and I am currently Scientific Director at Neurology startup BrainKey.ai. 
 <!--
 **KevinAquino/KevinAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
